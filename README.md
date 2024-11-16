@@ -1,6 +1,6 @@
 
 
-# OrangeHRM-Automation Automation Framework
+# OrangeHRM-Automation  Framework
 
 This repository contains an automation framework for testing the **OrangeHRM** application using **Selenium WebDriver**, **Cucumber**, and **REST Assured**. The framework follows best practices, including the **Page Object Model (POM)** design pattern, **clean code principles**, and **log management** with **Log4j**. 
 
